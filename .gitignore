@@ -47,4 +47,5 @@ coverage*.info
 Thumbs.db
 
 ## Folders
-docs/
+spec/
+articles/
